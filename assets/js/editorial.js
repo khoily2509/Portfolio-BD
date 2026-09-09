@@ -4,6 +4,11 @@ document.addEventListener('DOMContentLoaded', () => {
     window.lucide.createIcons();
   }
 
+  // Clean address bar: automatically remove #about hash if present
+  if (window.location.hash === '#about') {
+    history.replaceState(null, document.title, window.location.pathname + window.location.search);
+  }
+
   // 1. Smooth Animated Number Counters
   const counterElements = document.querySelectorAll('[data-counter]');
   const counterObserver = new IntersectionObserver((entries, observer) => {
