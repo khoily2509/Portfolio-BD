@@ -1,6 +1,6 @@
-# 🌟 Lý Minh Khôi - Fresher/Junior Business Analyst Portfolio
+# 🌟 Lý Minh Khôi — B2B BD & Solution Consulting Portfolio
 
-Trang web Portfolio cá nhân chuyên nghiệp dành cho vị trí **Fresher/Junior Business Analyst**, được xây dựng với cấu trúc hiện đại, thẩm mỹ cao và tối ưu hóa 100% cho việc ứng tuyển vào các công ty công nghệ, Product, B2B SaaS, FinTech và E-Commerce.
+Trang web Portfolio cá nhân chuyên nghiệp định hướng **B2B Business Development & Solution Consulting**, được xây dựng với phong cách thiết kế hiện đại (Swiss Editorial Minimalism), hỗ trợ song ngữ (Mặc định Tiếng Anh & Chuyển đổi Tiếng Việt), thẩm mỹ cao và tối ưu hóa 100% cho việc ứng tuyển vào các tập đoàn, công ty công nghệ, Enterprise B2B SaaS, HealthTech và tư vấn giải pháp.
 
 ---
 
